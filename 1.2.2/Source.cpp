@@ -10,4 +10,5 @@ int main()
 	cout << x; 
 	system("pause");
 	return 0;
+	//
 }
